@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a back-end R&D, working at XiaoMi.
+I'm a back-end R&D.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=makersy&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
