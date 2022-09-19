@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a back-end R&D.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=makersy&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/makersy/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=makersy&show_icons=true&icon_color=bb2acf&include_all_commits=true&theme=buefy)](https://github.com/makersy/github-readme-stats)
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makersy&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/makersy/github-readme-stats)
