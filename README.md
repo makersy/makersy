@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi there 👋
 
 <!--
 **makersy/makersy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm a back-end R&D.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=makersy&show_icons=true&icon_color=bb2acf&include_all_commits=true&theme=buefy)](https://github.com/makersy/github-readme-stats)
 
